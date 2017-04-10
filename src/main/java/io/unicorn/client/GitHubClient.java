@@ -10,5 +10,5 @@ import org.springframework.cloud.netflix.feign.FeignClient;
 @FeignClient(name = "https://api.github.com")
 public interface GitHubClient {
 
-    
+
 }
