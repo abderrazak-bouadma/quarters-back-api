@@ -7,4 +7,6 @@ security:
       client-id: 7e794d60516194a913de
       client-secret: 931c5e7f529ee058b5c171bf13574f0c109d76a7
       user-authorization-uri: https://api.github.com/authorizations
-
+    resource:
+      user-info-uri:
+      token-info-uri:
